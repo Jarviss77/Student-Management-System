@@ -21,7 +21,6 @@ char last_names[20][20] = {"Gupta", "Buddhedev", "Sahu", "Sonawane", "Bruh", "Ag
 char hostels[5][5] = {"BH-1", "BH-2", "BH-3", "BH-4", "BH-5"};
 char courses[5][10] = {"BTech", "MTech", "MS", "PhD", "MBA"};
 
-// Function to generate random student data
 Student generate_random_student(int student_id) {
     Student student;
     strcpy(student.first_name, first_names[rand() % 20]);
@@ -46,9 +45,10 @@ int main() {
     }
 
     // Generate and save data for 100 students
+    fprintf(file, "First Name  Last Name   Hostel  Course  Room Number  Date of Birth  Year of Study\n");
     for (int i = 1; i <= MAX_STUDENTS; i++) {
         Student student = generate_random_student(i);
-        fprintf(file, "%s %s %s %s %d %s %d\n", student.first_name, student.last_name, student.hostel,
+        fprintf(file, "%-12s%-12s%-7s%-8s%-13d%-15s%d\n", student.first_name, student.last_name, student.hostel,
                 student.course, student.room_number, student.date_of_birth, student.year_of_study);
     }
 
