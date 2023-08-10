@@ -1,0 +1,1581 @@
+regular 42 2 51 23:26:22
+random 42 2 51 23:26:22
+regular 82 0 0 23:26:23
+regular 70 3 0 23:26:24
+random 73 1 0 23:26:24
+regular 25 2 73 23:26:25
+random 25 2 73 23:26:25
+regular 28 2 45 23:26:26
+regular 92 1 0 23:26:27
+regular 95 1 0 23:26:28
+random 59 1 0 23:26:28
+regular 17 0 0 23:26:29
+random 54 2 33 23:26:29
+regular 53 2 20 23:26:30
+regular 51 1 0 23:26:31
+random 57 0 0 23:26:31
+regular 34 1 0 23:26:32
+regular 25 0 0 23:26:33
+random 21 2 73 23:26:33
+regular 44 2 37 23:26:34
+random 74 0 0 23:26:34
+regular 53 0 0 23:26:35
+regular 98 1 0 23:26:36
+random 44 2 37 23:26:36
+regular 8 0 0 23:26:37
+regular 95 1 0 23:26:38
+regular 49 3 0 23:26:39
+random 41 1 0 23:26:39
+regular 21 2 9 23:26:40
+random 8 0 0 23:26:40
+regular 99 0 0 23:26:41
+random 74 0 0 23:26:41
+regular 100 1 0 23:26:42
+regular 78 0 0 23:26:43
+random 21 2 9 23:26:43
+regular 53 2 78 23:26:44
+regular 15 2 68 23:26:45
+regular 9 2 14 23:26:46
+random 73 3 0 23:26:46
+regular 81 2 43 23:26:47
+random 78 0 0 23:26:47
+regular 4 2 4 23:26:48
+random 55 2 14 23:26:49
+regular 71 3 0 23:26:49
+regular 48 0 0 23:26:50
+random 69 0 0 23:26:51
+regular 65 0 0 23:26:51
+regular 43 3 0 23:26:52
+regular 49 2 74 23:26:53
+random 15 0 0 23:26:54
+regular 64 3 0 23:26:54
+regular 51 3 0 23:26:55
+random 44 3 0 23:26:56
+regular 78 3 0 23:26:56
+regular 81 3 0 23:26:57
+random 5 2 11 23:26:58
+regular 39 1 0 23:26:58
+regular 57 3 0 23:26:59
+regular 76 1 0 23:27:00
+regular 75 0 0 23:27:01
+regular 55 2 96 23:27:02
+regular 60 1 0 23:27:03
+regular 93 1 0 23:27:04
+regular 85 2 8 23:27:05
+regular 20 1 0 23:27:06
+regular 63 2 84 23:27:07
+regular 38 1 0 23:27:08
+regular 48 3 0 23:27:09
+regular 33 1 0 23:27:10
+regular 54 1 0 23:27:11
+regular 63 3 0 23:28:05
+random 63 3 0 23:28:05
+regular 52 2 77 23:28:06
+regular 5 0 0 23:28:07
+random 47 1 0 23:28:07
+regular 69 1 0 23:28:08
+regular 89 2 15 23:28:09
+random 1 0 0 23:28:09
+regular 80 1 0 23:28:10
+random 89 2 15 23:28:10
+regular 80 2 71 23:28:11
+regular 4 3 0 23:28:12
+random 30 3 0 23:28:12
+regular 60 2 90 23:28:13
+regular 58 3 0 23:28:14
+regular 25 2 51 23:28:15
+random 72 3 0 23:28:15
+regular 46 2 23 23:28:16
+random 60 2 90 23:28:16
+regular 11 0 0 23:28:17
+regular 8 3 0 23:28:18
+regular 20 0 0 23:28:19
+random 80 0 0 23:28:19
+regular 23 3 0 23:28:20
+random 52 1 0 23:28:20
+regular 17 1 0 23:28:21
+regular 42 1 0 23:28:22
+random 24 2 64 23:28:22
+regular 93 3 0 23:28:23
+regular 5 3 0 23:28:24
+random 64 3 0 23:28:24
+regular 29 1 0 23:28:25
+random 23 3 0 23:28:25
+regular 44 0 0 23:28:26
+regular 43 2 27 23:28:27
+regular 84 3 0 23:28:28
+random 26 1 0 23:28:28
+regular 40 2 67 23:28:29
+random 93 3 0 23:28:29
+regular 87 3 0 23:28:30
+random 32 0 0 23:28:30
+regular 62 1 0 23:28:31
+random 44 0 0 23:28:31
+regular 13 3 0 23:28:32
+regular 61 0 0 23:28:33
+random 11 3 0 23:28:33
+regular 27 0 0 23:28:34
+regular 3 3 0 23:28:35
+regular 62 0 0 23:28:36
+random 56 3 0 23:28:36
+regular 93 1 0 23:28:37
+regular 33 3 0 23:28:38
+random 68 2 7 23:28:38
+regular 94 0 0 23:28:39
+regular 13 2 27 23:28:40
+regular 2 1 0 23:28:41
+random 98 0 0 23:28:41
+regular 18 2 27 23:28:42
+regular 100 2 87 23:28:43
+regular 24 2 0 23:28:44
+regular 78 1 0 23:28:45
+regular 33 0 0 23:28:46
+regular 69 2 19 23:28:47
+regular 96 0 0 23:28:48
+regular 44 1 0 23:28:49
+regular 13 0 0 23:28:50
+regular 48 2 40 23:28:51
+regular 3 2 13 23:28:53
+regular 7 1 0 23:28:54
+regular 55 2 26 23:28:55
+random 3 0 0 23:31:45
+regular 10 1 0 23:31:46
+regular 36 1 0 23:31:47
+random 60 2 88 23:31:47
+regular 62 0 0 23:31:48
+random 26 2 86 23:31:48
+regular 55 0 0 23:31:49
+regular 79 0 0 23:31:50
+random 58 2 93 23:31:50
+regular 60 3 0 23:31:51
+regular 11 3 0 23:31:52
+random 27 3 0 23:31:52
+regular 43 2 35 23:31:53
+regular 19 0 0 23:31:54
+random 96 2 89 23:31:54
+regular 7 1 0 23:31:55
+regular 96 0 0 23:31:56
+random 28 0 0 23:31:56
+regular 95 3 0 23:31:57
+regular 29 2 68 23:31:58
+regular 83 1 0 23:31:59
+random 43 3 0 23:31:59
+regular 1 3 0 23:32:00
+random 67 1 0 23:32:00
+regular 34 1 0 23:32:01
+random 89 1 0 23:32:01
+regular 16 2 1 23:32:02
+random 6 0 0 23:32:02
+regular 56 2 6 23:32:03
+random 54 2 85 23:32:03
+regular 64 2 25 23:32:04
+regular 6 1 0 23:32:05
+random 78 3 0 23:32:05
+regular 25 3 0 23:32:06
+regular 97 1 0 23:32:07
+random 84 3 0 23:32:08
+regular 86 0 0 23:32:08
+regular 42 0 0 23:32:09
+regular 88 2 90 23:32:10
+random 53 3 0 23:32:11
+regular 6 1 0 23:32:11
+regular 70 3 0 23:32:12
+regular 24 3 0 23:32:13
+random 67 3 0 23:32:14
+regular 84 1 0 23:32:14
+regular 36 2 70 23:32:15
+regular 77 3 0 23:32:16
+random 44 2 47 23:32:17
+regular 29 2 58 23:32:17
+regular 61 0 0 23:32:18
+regular 99 0 0 23:32:19
+random 29 2 56 23:32:20
+regular 41 3 0 23:32:20
+regular 42 1 0 23:32:21
+regular 42 3 0 23:32:22
+random 1 1 0 23:32:23
+regular 42 2 39 23:32:23
+regular 90 3 0 23:32:24
+random 82 0 0 23:32:25
+regular 95 3 0 23:32:25
+regular 70 1 0 23:32:26
+regular 88 0 0 23:32:27
+regular 90 3 0 23:32:28
+regular 66 3 0 23:32:29
+regular 50 0 0 23:32:30
+regular 96 0 0 23:32:31
+regular 40 0 0 23:32:32
+regular 68 3 0 23:32:33
+regular 97 0 0 23:32:34
+regular 49 2 76 23:32:35
+regular 96 2 67 23:36:44
+random 96 2 67 23:36:44
+regular 63 0 0 23:36:45
+random 29          1            0 23:36:45
+regular 62 0 0 23:36:46
+regular 7 2 64 23:36:47
+random 7 2 64 23:36:47
+regular 22 0 0 23:36:48
+regular 71 1 0 23:36:49
+random 61 2 81 23:36:49
+regular 17 1 0 23:36:50
+random 98          1            0 23:36:51
+regular 82 2 50 23:36:51
+regular 43 3 0 23:36:52
+random 51 2 11 23:36:53
+regular 70 2 61 23:36:53
+regular 32 3 0 23:36:54
+regular 24 3 0 23:36:55
+random 47          1            0 23:36:56
+regular 23 0 0 23:36:56
+random 84          3            0 23:36:57
+regular 70 2 43 23:36:57
+regular 62 3 0 23:36:58
+regular 46 3 0 23:36:59
+random 23          0            0 23:37:00
+regular 36 3 0 23:37:00
+random 47          3            0 23:37:01
+regular 42 3 0 23:37:01
+random 56          1            0 23:37:02
+regular 88 2 58 23:37:02
+regular 34 3 0 23:37:03
+regular 45 1 0 23:37:04
+random 36          3            0 23:37:05
+regular 3 1 0 23:37:05
+regular 56 1 0 23:37:06
+regular 99 1 0 23:37:07
+random 52          3            0 23:37:08
+regular 6 3 0 23:37:08
+random 59          1            0 23:37:09
+regular 43 1 0 23:37:09
+random 45          1            0 23:37:10
+regular 73 3 0 23:37:10
+random 62          3            0 23:37:11
+regular 90 1 0 23:37:11
+regular 48 0 0 23:37:12
+regular 16 3 0 23:37:13
+random 99          1            0 23:37:14
+regular 4 3 0 23:37:14
+regular 11 0 0 23:37:15
+random 8 2 89 23:37:16
+regular 4 3 0 23:37:16
+regular 90 3 0 23:37:17
+regular 43 3 0 23:37:18
+random 8           1            0 23:37:19
+regular 55 2 22 23:37:19
+random 48          0            0 23:37:20
+regular 21 2 85 23:37:20
+regular 49 1 0 23:37:21
+regular 33 2 40 23:37:22
+regular 35 2 18 23:37:23
+regular 96 0 0 23:37:24
+regular 72 2 91 23:37:25
+regular 90 2 78 23:37:26
+regular 9 3 0 23:37:27
+regular 87 1 0 23:37:28
+regular 16 0 0 23:37:29
+regular 12 2 25 23:37:30
+regular 85 1 0 23:37:31
+regular 66 0 0 23:37:32
+regular 13 0 0 23:37:33
+regular 71 1 0 23:40:29
+random      71          1           0            23          :40:29regular 3 3 0 23:40:30
+regular 39 3 0 23:40:31
+regular 92 1 0 23:40:32
+random      72          2           11           23          :40:32
+regular 23 3 0 23:40:33
+regular 33 1 0 23:40:34
+regular 82 3 0 23:40:35
+random      66          2           19           23          :40:35
+regular 28 0 0 23:40:36
+regular 60 1 0 23:40:37
+random      34          1           0            23          :40:37regular 9 1 0 23:40:38
+regular 69 1 0 23:40:39
+regular 21 0 0 23:40:40
+random      28          0           0            23          :40:40regular 2 2 11 23:40:41
+random      98          0           0            23          :40:41regular 89 0 0 23:40:42
+random      69          1           0            23          :40:42regular 30 3 0 23:40:43
+regular 13 2 19 23:40:44
+random      17          1           0            23          :40:44regular 51 0 0 23:40:45
+regular 9 2 53 23:40:46
+random      12          0           0            23          :40:46regular 13 1 0 23:40:47
+random      30          3           0            23          :40:47regular 1 2 15 23:40:48
+random      71          3           0            23          :40:48regular 50 1 0 23:40:49
+random      93          0           0            23          :40:49regular 71 3 0 23:40:50
+regular 39 0 0 23:40:51
+regular 97 2 60 23:40:52
+random      54          0           0            23          :40:52regular 32 2 71 23:40:53
+random      1           2           15           23          :40:53
+regular 73 3 0 23:40:54
+regular 88 0 0 23:40:55
+random      74          2           75           23          :40:55
+regular 99 0 0 23:40:56
+regular 21 0 0 23:40:57
+random      81          0           0            23          :40:57regular 7 3 0 23:40:58
+regular 9 0 0 23:40:59
+regular 100 1 0 23:41:00
+random      61          3           0            23          :41:00regular 43 2 50 23:41:01
+regular 82 2 61 23:41:02
+random      72          0           0            23          :41:02regular 66 1 0 23:41:03
+regular 11 3 0 23:41:04
+regular 36 3 0 23:41:05
+random      88          0           0            23          :41:05regular 33 1 0 23:41:06
+regular 93 3 0 23:41:07
+random      77          0           0            23          :41:07regular 64 2 10 23:41:08
+regular 69 3 0 23:41:09
+regular 97 3 0 23:41:10
+regular 80 0 0 23:41:11
+regular 10 2 20 23:41:12
+regular 92 0 0 23:41:13
+regular 25 3 0 23:41:14
+regular 36 0 0 23:41:15
+regular 92 1 0 23:41:16
+regular 91 0 0 23:41:17
+regular 80 1 0 23:41:18
+random      22   2    1     23:42:02
+regular 22 2 1 23:42:02
+regular 45 1 0 23:42:03
+random      26   3    0     23:42:04regular 68 3 0 23:42:04
+regular 59 0 0 23:42:05
+random      59   0    0     23:42:06regular 68 3 0 23:42:06
+random      8    3    0     23:42:07regular 76 2 20 23:42:07
+regular 84 0 0 23:42:08
+regular 57 3 0 23:42:09
+random      21   3    0     23:42:10regular 37 3 0 23:42:10
+random      57   3    0     23:42:11regular 15 2 19 23:42:11
+random      72   2    18    23:42:12
+regular 76 0 0 23:42:12
+regular 29 3 0 23:42:13
+random      76   0    0     23:42:14regular 76 2 29 23:42:14
+random      96   3    0     23:42:15regular 86 0 0 23:42:15
+regular 12 2 37 23:42:16
+random      30   1    0     23:42:17regular 5 2 37 23:42:17
+regular 77 3 0 23:42:18
+regular 92 0 0 23:42:19
+random      12   2    37    23:42:20
+regular 99 1 0 23:42:20
+regular 35 0 0 23:42:21
+random      83   1    0     23:42:22regular 49 0 0 23:42:22
+regular 6 2 52 23:42:23
+random      68   3    0     23:42:24regular 72 2 1 23:42:24
+regular 72 0 0 23:42:25
+regular 90 2 29 23:42:26
+random      99   1    0     23:42:27regular 22 0 0 23:42:27
+regular 6 1 0 23:42:28
+random      77   0    0     23:42:29regular 11 3 0 23:42:29
+regular 83 2 72 23:42:30
+random      6    2    52    23:42:31
+regular 68 1 0 23:42:31
+random      71   1    0     23:42:32regular 95 3 0 23:42:32
+regular 84 3 0 23:42:33
+random      37   1    0     23:42:34regular 17 2 35 23:42:34
+random      30   1    0     23:42:35regular 83 2 47 23:42:35
+regular 12 0 0 23:42:36
+random      6    1    0     23:42:37regular 36 2 66 23:42:37
+regular 21 0 0 23:42:38
+regular 50 2 81 23:42:39
+regular 2 0 0 23:42:40
+regular 45 1 0 23:42:42
+regular 92 2 45 23:42:43
+regular 96 2 67 23:42:44
+regular 68 0 0 23:42:45
+regular 17 1 0 23:42:46
+regular 75 0 0 23:42:47
+regular 27 0 0 23:42:48
+regular 72 3 0 23:42:49
+regular 94 0 0 23:42:50
+regular 7 3 0 23:42:51
+regular 65 0 0 23:42:52
+regular 28 0 0 23:43:00
+random      35   1    0     23:43:01regular 68 2 8 23:43:01
+random      98   3    0     23:43:02regular 33 2 49 23:43:02
+regular 55 0 0 23:43:03
+random      51   0    0     23:43:04regular 47 3 0 23:43:04
+regular 99 2 88 23:43:05
+random      67   2    0     23:43:06
+regular 26 1 0 23:43:06
+regular 30 2 79 23:43:07
+random      5    3    0     23:43:08regular 61 0 0 23:43:08
+random      70   2    15    23:43:09
+regular 44 3 0 23:43:09
+regular 46 1 0 23:43:10
+random      17   1    0     23:43:11regular 3 0 0 23:43:11
+regular 7 0 0 23:43:12
+regular 68 1 0 23:43:13
+random      54   2    71    23:43:14
+regular 3 3 0 23:43:14
+regular 44 1 0 23:43:15
+regular 26 3 0 23:43:16
+random      92   3    0     23:43:17regular 33 2 19 23:43:17
+regular 70 2 93 23:43:18
+regular 79 3 0 23:43:19
+random      18   3    0     23:43:20regular 34 2 5 23:43:20
+regular 86 3 0 23:43:21
+random      75   2    58    23:43:22
+regular 30 0 0 23:43:22
+regular 2 0 0 23:43:23
+regular 87 1 0 23:43:24
+random      14   0    0     23:43:25regular 47 2 54 23:43:25
+regular 82 3 0 23:43:26
+regular 54 0 0 23:43:27
+random      40   2    11    23:43:28
+regular 55 1 0 23:43:28
+regular 56 2 6 23:43:29
+random      17   0    0     23:43:30regular 21 0 0 23:43:30
+random      63   3    0     23:43:31regular 80 1 0 23:43:31
+regular 59 1 0 23:43:32
+regular 86 0 0 23:43:33
+random      50   2    84    23:43:34
+regular 30 0 0 23:43:34
+regular 35 1 0 23:43:35
+random      50   0    0     23:43:36regular 21 2 60 23:43:36
+random      96   1    0     23:43:37regular 3 3 0 23:43:37
+regular 2 3 0 23:43:38
+random      57   1    0     23:43:39regular 15 0 0 23:43:39
+regular 48 3 0 23:43:40
+regular 48 3 0 23:43:41
+random      34   0    0     23:43:42regular 10 3 0 23:43:42
+regular 93 2 2 23:43:43
+regular 92 0 0 23:43:44
+regular 66 3 0 23:43:45
+regular 100 1 0 23:43:46
+regular 94 3 0 23:43:47
+regular 93 2 80 23:43:48
+regular 84 1 0 23:43:49
+regular      68   3    0     23:45:00
+random      68   3    0     23:45:00regular      98   1    0     23:45:01
+regular      1    2    51    23:45:02
+random      62   0    0     23:45:02regular      56   3    0     23:45:03
+random      52   3    0     23:45:03regular      21   0    0     23:45:04
+random      21   0    0     23:45:04regular      22   2    14    23:45:05
+regular      47   0    0     23:45:06
+random      39   2    46    23:45:06
+regular      23   2    60    23:45:07
+regular      44   2    66    23:45:08
+random      23   2    60    23:45:08
+regular      87   3    0     23:45:09
+regular      52   0    0     23:45:10
+random      71   2    86    23:45:10
+regular      66   3    0     23:45:11
+random      52   0    0     23:45:11regular      77   0    0     23:45:12
+random      8    0    0     23:45:12regular      38   0    0     23:45:13
+regular      39   0    0     23:45:14
+random      38   0    0     23:45:14regular      61   0    0     23:45:15
+random      13   0    0     23:45:15regular      34   2    19    23:45:16
+random      34   2    19    23:45:16
+regular      51   1    0     23:45:17
+regular      64   0    0     23:45:18
+random      50   3    0     23:45:18regular      84   0    0     23:45:19
+random      84   0    0     23:45:19regular      76   1    0     23:45:20
+regular      57   2    34    23:45:21
+regular      92   2    20    23:45:22
+random      22   0    0     23:45:22regular      31   3    0     23:45:23
+regular      47   0    0     23:45:24
+regular      91   3    0     23:45:25
+random      35   3    0     23:45:25regular      39   1    0     23:45:26
+regular      24   3    0     23:45:27
+random      21   2    67    23:45:27
+regular      51   1    0     23:45:28
+regular      81   3    0     23:45:29
+regular      45   0    0     23:45:30
+random      73   2    55    23:45:30
+regular      5    0    0     23:45:31
+regular      38   2    48    23:45:32
+random      46   3    0     23:45:32regular      22   1    0     23:45:33
+random      51   1    0     23:45:33regular      54   3    0     23:45:34
+regular      57   2    72    23:45:35
+regular      96   0    0     23:45:36
+regular      80   3    0     23:45:37
+regular      20   1    0     23:45:38
+regular      99   2    99    23:45:39
+regular      92   0    0     23:45:40
+regular      74   0    0     23:45:41
+regular      13   1    0     23:45:42
+regular      63   3    0     23:45:43
+regular      59   1    0     23:45:44
+regular      81   1    0     23:45:45
+regular      11   1    0     23:45:46
+regular      92   2    11    23:45:47
+regular      45   2    40    23:45:48
+regular      6    3    0     23:45:49
+regular     81   2    89    23:45:59
+random      81   2    89    23:45:59
+regular     15   1    0     23:46:00
+regular     88   2    77    23:46:01
+random      14   3    0     23:46:01regular     85   2    10    23:46:02
+regular     100  3    0     23:46:03
+regular     99   3    0     23:46:04
+random      78   0    0     23:46:04regular     45   2    26    23:46:05
+random      11   3    0     23:46:05regular     40   3    0     23:46:06
+random      99   3    0     23:46:06regular     73   2    72    23:46:07
+regular     98   0    0     23:46:08
+random      83   2    39    23:46:08
+regular     75   0    0     23:46:09
+regular     77   1    0     23:46:10
+regular     23   1    0     23:46:11
+random      73   2    72    23:46:11
+regular     96   1    0     23:46:12
+random      89   2    24    23:46:12
+regular     25   1    0     23:46:13
+regular     60   3    0     23:46:14
+regular     38   2    55    23:46:15
+random      46   2    69    23:46:15
+regular     98   0    0     23:46:16
+regular     3    0    0     23:46:17
+random      42   0    0     23:46:17regular     95   3    0     23:46:18
+random      60   3    0     23:46:18regular     35   1    0     23:46:19
+regular     29   2    35    23:46:20
+regular     22   2    74    23:46:21
+random      55   3    0     23:46:21regular     46   2    72    23:46:22
+regular     64   3    0     23:46:23
+regular     75   1    0     23:46:24
+random      33   2    92    23:46:24
+regular     8    0    0     23:46:25
+regular     74   2    44    23:46:26
+regular     83   2    28    23:46:27
+random      96   2    81    23:46:27
+regular     17   3    0     23:46:28
+regular     36   0    0     23:46:29
+random      23   3    0     23:46:29regular     78   3    0     23:46:30
+regular     91   1    0     23:46:31
+random      35   2    45    23:46:31
+regular     51   0    0     23:46:32
+regular     100  2    12    23:46:33
+regular     21   3    0     23:46:34
+random      73   3    0     23:46:34regular     14   1    0     23:46:35
+regular     93   1    0     23:46:36
+random      75   1    0     23:46:36regular     31   1    0     23:46:37
+regular     73   3    0     23:46:38
+random      1    1    0     23:46:39regular     29   0    0     23:46:39
+regular     36   1    0     23:46:40
+random      45   2    34    23:46:41
+regular     79   0    0     23:46:41
+regular     49   1    0     23:46:42
+regular     36   0    0     23:46:43
+regular     1    3    0     23:46:44
+regular     52   1    0     23:46:45
+regular     46   1    0     23:46:46
+regular     81   2    57    23:46:47
+regular     13   2    25    23:46:48
+random      89   2    53    23:50:03
+regular     89   2    53    23:50:03
+regular     3    3    0     23:50:04
+regular     65   2    7     23:50:05
+random      24   0    0     23:50:06regular     95   2    52    23:50:06
+regular     91   2    23    23:50:07
+regular     9    2    62    23:50:08
+random      8    2    46    23:50:09
+regular     56   0    0     23:50:09
+random      91   2    23    23:50:10
+regular     40   2    97    23:50:10
+regular     1    0    0     23:50:11
+regular     100  3    0     23:50:12
+random      67   2    55    23:50:13
+regular     47   3    0     23:50:13
+random      40   2    97    23:50:14
+regular     3    1    0     23:50:14
+regular     4    1    0     23:50:15
+regular     62   0    0     23:50:16
+random      37   3    0     23:50:17regular     10   3    0     23:50:17
+regular     47   2    56    23:50:18
+random      47   3    0     23:50:19regular     97   1    0     23:50:19
+regular     21   2    28    23:50:20
+random      26   3    0     23:50:21regular     62   0    0     23:50:21
+random      62   0    0     23:50:22regular     29   1    0     23:50:22
+regular     63   1    0     23:50:23
+regular     91   2    60    23:50:24
+random      52   2    98    23:50:25
+regular     62   0    0     23:50:25
+regular     67   3    0     23:50:26
+random      97   1    0     23:50:27regular     95   0    0     23:50:27
+random      23   0    0     23:50:28regular     2    1    0     23:50:28
+regular     31   2    63    23:50:29
+random      77   0    0     23:50:30regular     32   1    0     23:50:30
+regular     16   0    0     23:50:31
+regular     4    2    5     23:50:32
+random      63   1    0     23:50:33regular     82   3    0     23:50:33
+regular     69   0    0     23:50:34
+random      55   0    0     23:50:35regular     49   3    0     23:50:35
+regular     71   1    0     23:50:36
+random      49   2    35    23:50:37
+regular     100  0    0     23:50:37
+regular     92   0    0     23:50:38
+regular     60   1    0     23:50:39
+random      21   1    0     23:50:40regular     75   3    0     23:50:40
+regular     71   2    50    23:50:41
+regular     66   2    6     23:50:42
+random      31   2    63    23:50:43
+regular     83   3    0     23:50:43
+regular     52   3    0     23:50:44
+regular     58   1    0     23:50:45
+random      90   3    0     23:50:46regular     32   2    90    23:50:46
+regular     35   3    0     23:50:47
+regular     94   1    0     23:50:48
+regular     22   1    0     23:50:49
+regular     7    3    0     23:50:50
+regular     3    3    0     23:50:51
+regular     3    2    52    23:50:52
+regular     31   2    62    23:56:49
+random      38   3    0     23:56:50regular     62   0    0     23:56:50
+regular     14   1    0     23:56:51
+regular     51   0    0     23:56:52
+random      20   2    38    23:56:53
+regular     88   3    0     23:56:53
+regular     11   3    0     23:56:54
+random      82   0    0     23:56:55regular     18   3    0     23:56:55
+regular     80   0    0     23:56:56
+random      1    0    0     23:56:57regular     42   0    0     23:56:57
+regular     96   1    0     23:56:58
+regular     99   1    0     23:56:59
+random      60   2    82    23:57:00
+regular     13   2    3     23:57:00
+regular     2    1    0     23:57:01
+regular     56   0    0     23:57:02
+random      71   0    0     23:57:03regular     96   3    0     23:57:03
+random      42   0    0     23:57:04regular     5    1    0     23:57:04
+random      70   3    0     23:57:05regular     17   2    88    23:57:05
+random      1    3    0     23:57:06regular     64   0    0     23:57:06
+random      29   1    0     23:57:07regular     67   3    0     23:57:07
+random      17   0    0     23:57:08regular     100  2    9     23:57:08
+regular     64   0    0     23:57:09
+random      32   0    0     23:57:10regular     18   2    9     23:57:10
+regular     25   3    0     23:57:11
+random      69   0    0     23:57:12regular     55   1    0     23:57:12
+regular     9    2    10    23:57:13
+random      25   3    0     23:57:14regular     74   2    10    23:57:14
+regular     92   1    0     23:57:15
+random      2    1    0     23:57:16regular     92   2    97    23:57:16
+regular     38   3    0     23:57:17
+random      51   3    0     23:57:18regular     2    1    0     23:57:18
+regular     77   2    5     23:57:19
+random      34   3    0     23:57:20regular     36   2    9     23:57:20
+random      6    2    0     23:57:21
+regular     82   0    0     23:57:21
+regular     72   3    0     23:57:22
+regular     2    2    18    23:57:23
+random      12   0    0     23:57:24regular     59   0    0     23:57:24
+regular     53   3    0     23:57:25
+regular     13   0    0     23:57:26
+random      45   1    0     23:57:27regular     30   2    71    23:57:27
+regular     29   0    0     23:57:28
+regular     16   2    87    23:57:29
+regular     27   2    5     23:57:30
+regular     24   3    0     23:57:31
+regular     83   2    8     23:57:32
+regular     56   1    0     23:57:33
+regular     98   1    0     23:57:34
+regular     90   3    0     23:57:35
+regular     39   0    0     23:57:36
+regular     21   1    0     23:57:37
+regular     63   3    0     23:57:39
+regular       25   2    30    00:04:11
+random      25   2    30    00:04:11
+regular      4    3    0     00:04:12
+regular       79   2    26    00:04:13
+random      20   2    10    00:04:13
+regular      27   3    0     00:04:14
+random      27   3    0     00:04:14regular       98   2    51    00:04:15
+regular      77   1    0     00:04:16
+regular      8    3    0     00:04:17
+random      31   3    0     00:04:17regular      19   1    0     00:04:18
+regular      37   0    0     00:04:19
+random      70   3    0     00:04:19regular      9    3    0     00:04:20
+random      19   1    0     00:04:20regular      90   0    0     00:04:21
+regular      39   0    0     00:04:22
+random      17   0    0     00:04:22regular      95   3    0     00:04:23
+regular      41   3    0     00:04:24
+random      90   0    0     00:04:24regular      84   0    0     00:04:25
+regular      45   1    0     00:04:26
+random      33   2    79    00:04:26
+regular       70   2    23    00:04:27
+random      76   3    0     00:04:27regular       69   2    18    00:04:28
+regular      26   3    0     00:04:29
+regular      71   1    0     00:04:30
+random      45   1    0     00:04:30regular      23   0    0     00:04:31
+random      47   3    0     00:04:31regular       52   2    47    00:04:32
+regular      89   3    0     00:04:33
+random      35   2    25    00:04:33
+regular       51   2    77    00:04:34
+regular      60   0    0     00:04:35
+random      71   1    0     00:04:35regular      36   3    0     00:04:36
+random      81   3    0     00:04:36regular      49   1    0     00:04:37
+random      48   0    0     00:04:37regular      83   0    0     00:04:38
+regular      79   3    0     00:04:39
+random      51   2    77    00:04:39
+regular      88   0    0     00:04:40
+regular       18   2    92    00:04:41
+random      77   3    0     00:04:41regular       35   2    2     00:04:42
+regular      68   1    0     00:04:43
+regular      50   1    0     00:04:44
+random      49   1    0     00:04:44regular      78   3    0     00:04:45
+random      1    2    87    00:04:45
+regular       21   2    21    00:04:46
+regular       90   2    21    00:04:47
+regular      37   0    0     00:04:48
+regular      58   1    0     00:04:49
+regular      17   3    0     00:04:50
+regular      11   0    0     00:04:51
+regular      74   1    0     00:04:52
+regular      21   0    0     00:04:53
+regular       76   2    99    00:04:54
+regular       39   2    21    00:04:55
+regular      19   3    0     00:04:56
+regular       43   2    5     00:04:57
+regular       28   2    64    00:04:58
+regular      66   0    0     00:04:59
+regular       95   2    13    00:05:00
+regular     98   3    0     00:06:30
+random     98   3    0     00:06:30regular     43   1    0     00:06:31
+regular     12   1    0     00:06:32
+random     58   3    0     00:06:32regular     45   3    0     00:06:33
+regular     59   3    0     00:06:34
+regular     67   1    0     00:06:35
+random     45   3    0     00:06:35regular     35   3    0     00:06:36
+regular     34   1    0     00:06:37
+regular     98   2    95    00:06:38
+random     96   2    81    00:06:38
+regular     82   3    0     00:06:39
+random     80   1    0     00:06:39regular     35   0    0     00:06:40
+regular     50   2    94    00:06:41
+regular     83   2    77    00:06:42
+random     98   2    95    00:06:42
+regular     47   1    0     00:06:43
+regular     16   0    0     00:06:44
+regular     29   1    0     00:06:45
+random     8    2    76    00:06:45
+regular     95   3    0     00:06:46
+random     75   2    82    00:06:46
+regular     53   3    0     00:06:47
+regular     57   2    94    00:06:48
+regular     56   3    0     00:06:49
+random     78   2    89    00:06:49
+regular     36   3    0     00:06:50
+regular     37   3    0     00:06:51
+random     33   0    0     00:06:51regular     98   3    0     00:06:52
+regular     99   0    0     00:06:53
+regular     12   0    0     00:06:54
+random     95   3    0     00:06:54regular     80   1    0     00:06:55
+regular     64   0    0     00:06:56
+random     64   0    0     00:06:56regular     25   2    76    00:06:57
+regular     67   3    0     00:06:58
+regular     47   3    0     00:06:59
+random     95   3    0     00:06:59regular     12   0    0     00:07:00
+regular     66   2    62    00:07:01
+regular     67   3    0     00:07:02
+random     36   3    0     00:07:02regular     35   1    0     00:07:03
+regular     71   0    0     00:07:04
+regular     66   0    0     00:07:05
+random     20   1    0     00:07:05regular     53   2    26    00:07:06
+regular     89   2    33    00:07:07
+random     99   0    0     00:07:07regular     98   1    0     00:07:08
+regular     66   2    1     00:07:09
+random     53   3    0     00:07:09regular     58   3    0     00:07:10
+random     64   0    0     00:07:10regular     34   0    0     00:07:11
+regular     35   3    0     00:07:12
+random     43   0    0     00:07:12regular     49   2    19    00:07:13
+random     28   2    87    00:07:13
+regular     70   1    0     00:07:14
+regular     53   3    0     00:07:15
+regular     11   3    0     00:07:16
+regular     69   3    0     00:07:17
+regular     97   1    0     00:07:18
+regular     16   3    0     00:07:19
+regular     19   1    0     00:09:53
+random     19   1    0     00:09:53regular     71   0    0     00:09:54
+regular     26   1    0     00:09:55
+regular     7    2    41    00:09:56
+random     61   1    0     00:09:56regular     93   0    0     00:09:57
+regular     95   3    0     00:09:58
+random     7    2    41    00:09:58
+regular     77   1    0     00:09:59
+regular     27   3    0     00:10:00
+random     21   2    67    00:10:00
+regular     96   1    0     00:10:01
+regular     60   1    0     00:10:02
+random     78   2    39    00:10:02
+regular     9    2    37    00:10:03
+random     50   3    0     00:10:03regular     71   0    0     00:10:04
+random     9    2    37    00:10:04
+regular     34   1    0     00:10:05
+random     65   1    0     00:10:05regular     78   2    85    00:10:06
+regular     9    1    0     00:10:07
+random     78   2    85    00:10:07
+regular     7    1    0     00:10:08
+random     78   2    37    00:10:08
+regular     92   0    0     00:10:09
+regular     9    1    0     00:10:10
+regular     42   1    0     00:10:11
+random     13   0    0     00:10:11regular     58   0    0     00:10:12
+regular     57   2    37    00:10:13
+random     42   1    0     00:10:13regular     5    0    0     00:10:14
+regular     48   2    16    00:10:15
+regular     29   3    0     00:10:16
+random     73   0    0     00:10:16regular     53   0    0     00:10:17
+regular     61   2    38    00:10:18
+random     38   0    0     00:10:18regular     67   3    0     00:10:19
+regular     95   2    86    00:10:20
+random     48   2    16    00:10:20
+regular     64   3    0     00:10:21
+random     80   0    0     00:10:21regular     71   1    0     00:10:22
+random     61   2    38    00:10:22
+regular     97   3    0     00:10:23
+random     88   2    70    00:10:23
+regular     57   1    0     00:10:24
+regular     93   3    0     00:10:25
+random     64   3    0     00:10:25regular     50   1    0     00:10:26
+random     94   0    0     00:10:26regular     65   1    0     00:10:27
+regular     91   2    57    00:10:28
+regular     76   0    0     00:10:29
+regular     73   0    0     00:10:30
+regular     77   1    0     00:10:31
+regular     78   1    0     00:10:32
+regular     14   3    0     00:10:33
+regular     20   1    0     00:10:34
+regular     11   0    0     00:10:35
+regular     48   2    45    00:10:36
+regular     41   2    73    00:10:37
+regular     33   1    0     00:10:38
+regular     98   3    0     00:10:39
+regular     23   1    0     00:10:41
+regular     67   3    0     00:10:42
+regular     75   0    0     00:10:43
+regular     53   0    0     00:12:35
+random      60   1    0     00:12:36regular     16   2    96    00:12:36
+random      90   2    21    00:12:37
+regular     97   1    0     00:12:38
+regular     65   1    0     00:12:39
+regular     7    2    76    00:12:40
+random      96   0    0     00:12:40regular     74   1    0     00:12:41
+regular     49   2    37    00:12:42
+regular     47   3    0     00:12:43
+random      80   1    0     00:12:43regular     87   2    22    00:12:44
+regular     57   2    51    00:12:45
+regular     16   2    43    00:12:46
+random      88   3    0     00:12:46regular     74   1    0     00:12:47
+random      18   3    0     00:12:47regular     91   0    0     00:12:48
+random      99   2    91    00:12:48
+regular     1    0    0     00:12:49
+regular     65   2    69    00:12:50
+random      85   0    0     00:12:50regular     66   0    0     00:12:51
+regular     71   3    0     00:12:52
+regular     2    3    0     00:12:53
+random      66   2    89    00:12:53
+regular     55   1    0     00:12:54
+regular     64   2    53    00:12:55
+random      41   2    12    00:12:55
+regular     8    3    0     00:12:56
+regular     51   0    0     00:12:57
+random      28   0    0     00:12:57regular     43   1    0     00:12:58
+regular     43   3    0     00:12:59
+random      15   0    0     00:12:59regular     58   3    0     00:13:00
+regular     71   3    0     00:13:01
+regular     50   0    0     00:13:02
+random      79   2    85    00:13:02
+regular     77   2    85    00:13:03
+regular     97   2    87    00:13:04
+regular     53   1    0     00:13:05
+random      60   0    0     00:13:05regular     83   0    0     00:13:06
+regular     63   3    0     00:13:07
+regular     25   0    0     00:13:08
+random      98   1    0     00:13:08regular     40   2    11    00:13:09
+regular     61   3    0     00:13:10
+random      5    1    0     00:13:10regular     37   1    0     00:13:11
+regular     2    2    17    00:13:12
+random      10   2    14    00:13:12
+regular     48   3    0     00:13:13
+regular     62   3    0     00:13:14
+random      25   1    0     00:13:14regular     37   0    0     00:13:15
+random      72   3    0     00:13:15regular     42   0    0     00:13:16
+random      32   2    2     00:13:16
+regular     60   3    0     00:13:17
+regular     89   3    0     00:13:18
+regular     87   0    0     00:13:19
+regular     6    2    90    00:13:20
+regular     1    1    0     00:13:21
+regular     39   2    94    00:13:22
+regular     14   1    0     00:13:23
+regular     47   2    92    00:13:24
+regular     39   1    0     00:13:25
+regular     73   0    0     00:13:35
+random      73   0    0     00:13:35regular     81   2    92    00:13:36
+regular     59   0    0     00:13:37
+regular     18   1    0     00:13:38
+random      43   0    0     00:13:38regular     15   1    0     00:13:39
+random      5    1    0     00:13:39regular     20   3    0     00:13:40
+random      15   1    0     00:13:40regular     72   3    0     00:13:41
+regular     47   2    86    00:13:42
+regular     35   2    63    00:13:43
+random      44   3    0     00:13:43regular     36   3    0     00:13:44
+regular     63   2    91    00:13:45
+regular     25   2    58    00:13:46
+random      47   2    86    00:13:46
+regular     16   1    0     00:13:47
+random      19   3    0     00:13:47regular     38   0    0     00:13:48
+regular     64   0    0     00:13:49
+random      52   2    54    00:13:49
+regular     87   3    0     00:13:50
+regular     91   3    0     00:13:51
+random      25   2    58    00:13:51
+regular     97   2    48    00:13:52
+regular     52   3    0     00:13:53
+random      26   1    0     00:13:53regular     42   3    0     00:13:54
+regular     41   2    95    00:13:55
+random      64   0    0     00:13:55regular     34   0    0     00:13:56
+regular     13   0    0     00:13:57
+random      24   2    51    00:13:57
+regular     54   0    0     00:13:58
+regular     2    2    97    00:13:59
+random      27   0    0     00:13:59regular     33   2    31    00:14:00
+regular     59   3    0     00:14:01
+random      100  1    0     00:14:01regular     55   0    0     00:14:02
+regular     67   2    32    00:14:03
+random      41   2    95    00:14:03
+regular     54   2    52    00:14:04
+regular     80   3    0     00:14:05
+random      49   0    0     00:14:05regular     95   0    0     00:14:06
+regular     32   0    0     00:14:07
+random      54   0    0     00:14:07regular     66   1    0     00:14:08
+random      35   1    0     00:14:08regular     39   1    0     00:14:09
+regular     1    2    87    00:14:10
+regular     80   3    0     00:14:11
+random      43   3    0     00:14:11regular     80   2    1     00:14:12
+regular     42   2    51    00:14:13
+random      60   2    72    00:14:13
+regular     55   2    34    00:14:14
+regular     79   1    0     00:14:15
+regular     66   2    17    00:14:16
+regular     62   2    51    00:14:17
+regular     64   2    20    00:14:18
+regular     95   0    0     00:14:19
+regular     50   3    0     00:14:20
+regular     8    3    0     00:14:21
+regular     42   0    0     00:14:22
+regular     19   0    0     00:14:23
+regular     84   0    0     00:14:24
+regular     14   3    0     00:14:38
+random      14   3    0     00:14:38regular     24   1    0     00:14:39
+regular     32   3    0     00:14:40
+regular     36   2    25    00:14:41
+random      34   3    0     00:14:41regular     9    1    0     00:14:42
+regular     64   0    0     00:14:43
+regular     77   3    0     00:14:44
+random      36   2    25    00:14:44
+regular     85   1    0     00:14:45
+regular     67   2    86    00:14:46
+random      98   3    0     00:14:46regular     84   1    0     00:14:47
+regular     80   3    0     00:14:48
+regular     44   3    0     00:14:49
+random      77   3    0     00:14:49regular     80   2    44    00:14:50
+regular     53   1    0     00:14:51
+regular     20   0    0     00:14:52
+random      58   2    26    00:14:52
+regular     44   0    0     00:14:53
+regular     79   0    0     00:14:54
+random      84   1    0     00:14:54regular     22   3    0     00:14:55
+regular     39   2    17    00:14:56
+random      28   3    0     00:14:56regular     96   3    0     00:14:57
+regular     70   3    0     00:14:58
+random      80   2    44    00:14:58
+regular     25   3    0     00:14:59
+regular     72   0    0     00:15:00
+regular     9    1    0     00:15:01
+random      58   3    0     00:15:01regular     64   2    38    00:15:02
+random      44   0    0     00:15:02regular     55   1    0     00:15:03
+regular     67   0    0     00:15:04
+random      21   1    0     00:15:04regular     44   2    12    00:15:05
+random      39   2    17    00:15:05
+regular     96   2    21    00:15:06
+regular     49   2    54    00:15:07
+random      12   1    0     00:15:07regular     98   2    22    00:15:08
+regular     55   1    0     00:15:09
+regular     88   1    0     00:15:10
+random      25   3    0     00:15:10regular     4    0    0     00:15:11
+random      9    0    0     00:15:11regular     93   0    0     00:15:12
+regular     83   2    46    00:15:13
+regular     3    1    0     00:15:14
+random      64   2    38    00:15:14
+regular     13   0    0     00:15:15
+regular     33   0    0     00:15:16
+random      90   2    96    00:15:16
+regular     54   3    0     00:15:17
+regular     98   3    0     00:15:18
+random      39   0    0     00:15:18regular     36   1    0     00:15:19
+random      27   1    0     00:15:19regular     72   1    0     00:15:20
+regular     60   1    0     00:15:21
+regular     10   3    0     00:15:22
+regular     27   3    0     00:15:23
+regular     79   2    99    00:15:24
+regular     83   0    0     00:15:25
+regular     38   0    0     00:15:26
+regular     11   2    59    00:15:27
+regular     13   2    66    00:18:55
+random      13   2    66    00:18:55
+regular     94   2    8     00:18:56
+regular     80   2    11    00:18:57
+random      3    0    0     00:18:57
+regular     42   0    0     00:18:58
+regular     18   1    0     00:18:59
+regular     95   0    0     00:19:00
+random      79   3    0     00:19:00
+regular     64   0    0     00:19:01
+random      25   1    0     00:19:01
+regular     26   0    0     00:19:02
+regular     72   1    0     00:19:03
+regular     76   0    0     00:19:04
+random      95   0    0     00:19:04
+regular     44   0    0     00:19:05
+regular     9    1    0     00:19:06
+regular     81   3    0     00:19:07
+random      13   1    0     00:19:07
+regular     41   0    0     00:19:08
+random      72   1    0     00:19:08
+regular     90   0    0     00:19:09
+regular     99   0    0     00:19:10
+regular     12   1    0     00:19:11
+random      49   3    0     00:19:11
+regular     97   0    0     00:19:12
+random      9    1    0     00:19:12
+regular     18   1    0     00:19:13
+random      28   0    0     00:19:13
+regular     31   2    92    00:19:14
+regular     66   2    6     00:19:15
+regular     42   3    0     00:19:16
+random      90   0    0     00:19:16
+regular     94   2    81    00:19:17
+regular     53   1    0     00:19:18
+regular     91   3    0     00:19:19
+random      5    3    0     00:19:20
+regular     83   1    0     00:19:20
+regular     56   2    88    00:19:21
+regular     65   0    0     00:19:22
+random      97   0    0     00:19:23
+regular     41   3    0     00:19:23
+regular     1    0    0     00:19:24
+random      54   2    54    00:19:25
+regular     30   0    0     00:19:25
+regular     10   1    0     00:19:26
+regular     19   3    0     00:19:27
+random      66   2    6     00:19:28
+regular     84   2    8     00:19:28
+regular     54   1    0     00:19:29
+random      40   1    0     00:19:30
+regular     29   1    0     00:19:30
+regular     3    0    0     00:19:31
+random      82   0    0     00:19:32
+regular     68   3    0     00:19:32
+random      91   3    0     00:19:33
+regular     1    1    0     00:19:33
+regular     35   2    81    00:19:34
+regular     54   1    0     00:19:35
+random      82   3    0     00:19:36
+regular     6    2    23    00:19:36
+regular     92   0    0     00:19:37
+regular     90   3    0     00:19:38
+random      89   0    0     00:19:39
+regular     33   2    97    00:19:39
+regular     25   3    0     00:19:40
+regular     45   3    0     00:19:41
+regular     80   3    0     00:19:42
+regular     91   0    0     00:19:43
+regular     76   1    0     00:19:44
+regular     84   3    0     00:21:28
+random      84   3    0     00:21:28
+regular     84   1    0     00:21:29
+regular     39   1    0     00:21:30
+regular     83   0    0     00:21:31
+random      78   2    73    00:21:31
+regular     43   1    0     00:21:32
+regular     72   2    88    00:21:33
+random      25   2    97    00:21:33
+regular     39   3    0     00:21:34
+random      3    0    0     00:21:34
+regular     16   2    15    00:21:35
+regular     48   1    0     00:21:36
+regular     77   1    0     00:21:37
+random      4    3    0     00:21:37
+regular     96   3    0     00:21:38
+regular     35   1    0     00:21:39
+regular     31   2    14    00:21:40
+random      16   3    0     00:21:40
+regular     67   0    0     00:21:41
+random      77   1    0     00:21:41
+regular     69   0    0     00:21:42
+regular     21   2    10    00:21:43
+regular     38   1    0     00:21:44
+random      44   2    97    00:21:44
+regular     76   2    18    00:21:45
+random      15   2    66    00:21:45
+regular     97   2    48    00:21:46
+regular     71   2    31    00:21:47
+random      69   0    0     00:21:47
+regular     73   2    65    00:21:48
+regular     61   3    0     00:21:49
+random      71   2    37    00:21:49
+regular     38   3    0     00:21:50
+regular     10   2    76    00:21:51
+random      76   2    18    00:21:51
+regular     31   0    0     00:21:52
+regular     99   1    0     00:21:53
+random      67   0    0     00:21:53
+regular     44   0    0     00:21:54
+regular     10   3    0     00:21:55
+regular     38   1    0     00:21:56
+random      63   3    0     00:21:56
+regular     96   1    0     00:21:57
+random      95   1    0     00:21:57
+regular     95   3    0     00:21:58
+regular     39   1    0     00:21:59
+random      60   1    0     00:21:59
+regular     40   0    0     00:22:00
+random      10   2    76    00:22:00
+regular     14   0    0     00:22:01
+regular     66   2    20    00:22:02
+random      13   2    21    00:22:02
+regular     29   1    0     00:22:03
+regular     11   1    0     00:22:04
+random      69   1    0     00:22:04
+regular     51   0    0     00:22:05
+regular     89   1    0     00:22:06
+regular     94   3    0     00:22:07
+random      38   1    0     00:22:07
+regular     66   2    17    00:22:08
+regular     4    2    96    00:22:09
+regular     77   0    0     00:22:10
+regular     20   2    96    00:22:11
+regular     82   2    59    00:22:12
+regular     9    0    0     00:22:13
+regular     56   1    0     00:22:14
+regular     68   3    0     00:22:15
+regular     21   0    0     00:22:16
+regular     13   0    0     00:22:17
+regular     12   1    0     00:29:52
+random      19   3    0     00:29:53
+regular     16   0    0     00:29:53
+regular     63   0    0     00:29:54
+random      64   1    0     00:29:55
+regular     31   2    60    00:29:55
+regular     97   0    0     00:29:56
+regular     96   3    0     00:29:57
+random      75   1    0     00:29:58
+regular     8    2    78    00:29:58
+regular     25   3    0     00:29:59
+random      59   0    0     00:30:00
+regular     37   3    0     00:30:00
+regular     19   3    0     00:30:01
+random      9    1    0     00:30:02
+regular     73   0    0     00:30:02
+regular     53   3    0     00:30:03
+random      35   0    0     00:30:04
+regular     18   3    0     00:30:04
+random      30   3    0     00:30:05
+regular     9    3    0     00:30:05
+random      34   1    0     00:30:06
+regular     12   0    0     00:30:06
+regular     61   0    0     00:30:07
+random      66   0    0     00:30:08
+regular     74   0    0     00:30:08
+regular     61   2    38    00:30:09
+random      95   1    0     00:30:10
+regular     35   2    72    00:30:10
+regular     31   3    0     00:30:11
+regular     95   3    0     00:30:12
+random      62   3    0     00:30:13
+regular     98   2    84    00:30:13
+random      28   0    0     00:30:14
+regular     1    2    44    00:30:14
+regular     77   2    27    00:30:15
+random      93   0    0     00:30:16
+regular     71   1    0     00:30:16
+random      56   1    0     00:30:17
+regular     71   3    0     00:30:17
+regular     54   1    0     00:30:18
+random      24   0    0     00:30:19
+regular     70   1    0     00:30:19
+regular     86   1    0     00:30:20
+regular     47   3    0     00:30:21
+random      49   2    65    00:30:22
+regular     66   3    0     00:30:22
+random      11   0    0     00:30:23
+regular     88   0    0     00:30:23
+regular     92   0    0     00:30:24
+regular     25   3    0     00:30:25
+random      38   2    95    00:30:26
+regular     72   2    34    00:30:26
+regular     7    0    0     00:30:27
+regular     90   0    0     00:30:28
+random      35   3    0     00:30:29
+regular     51   0    0     00:30:29
+regular     33   1    0     00:30:30
+random      57   0    0     00:30:31
+regular     72   3    0     00:30:31
+regular     10   3    0     00:30:32
+regular     19   1    0     00:30:33
+regular     19   2    72    00:30:34
+regular     39   3    0     00:30:35
+regular     81   3    0     00:30:36
+regular     24   3    0     00:30:37
+regular     78   3    0     00:30:38
+regular     42   1    0     00:30:39
+regular     61   3    0     00:30:40
+regular     86   1    0     00:30:41
+regular     93   2    16    00:34:35
+random      93   2    16    00:34:35
+regular     57   3    0     00:34:36
+regular     54   3    0     00:34:37
+random      56   1    0     00:34:37
+regular     66   1    0     00:34:38
+random      66   1    0     00:34:38
+regular     36   0    0     00:34:39
+regular     82   2    23    00:34:40
+regular     99   1    0     00:34:41
+random      5    1    0     00:34:41
+regular     90   3    0     00:37:26
+random      97   0    0     00:37:27
+regular     37   0    0     00:37:27
+regular     9    3    0     00:37:28
+regular     20   3    0     00:37:29
+random      20   3    0     00:37:30
+regular     27   2    42    00:37:30
+regular     14   0    0     00:37:31
+random      17   1    0     00:37:32
+regular     24   1    0     00:37:32
+regular     14   3    0     00:37:33
+random      17   2    31    00:37:34
+regular     69   2    25    00:37:34
+regular     51   1    0     00:37:35
+regular     10   0    0     00:37:36
+random      66   0    0     00:37:37
+regular     98   0    0     00:37:37
+regular     37   0    0     00:37:38
+regular     90   0    0     00:37:39
+random      28   1    0     00:37:40
+regular     92   2    15    00:37:40
+regular     45   3    0     00:37:41
+random      91   1    0     00:37:42
+regular     20   1    0     00:37:42
+random      72   2    57    00:37:43
+regular     56   2    66    00:37:43
+regular     13   2    36    00:37:44
+regular     50   0    0     00:37:45
+random      89   3    0     00:37:46
+regular     83   0    0     00:37:46
+random      48   0    0     00:37:47
+regular     42   0    0     00:37:47
+regular     26   0    0     00:37:48
+random      28   3    0     00:37:49
+regular     8    0    0     00:37:49
+random      53   1    0     00:37:50
+regular     47   2    58    00:37:50
+regular     67   2    15    00:37:51
+random      87   3    0     00:37:52
+regular     47   3    0     00:37:52
+random      24   2    38    00:37:53
+regular     71   1    0     00:37:53
+regular     67   3    0     00:37:54
+regular     81   2    70    00:37:55
+random      28   1    0     00:37:56
+regular     90   2    91    00:37:56
+random      27   2    74    00:37:57
+regular     41   0    0     00:37:57
+random      94   3    0     00:37:58
+regular     22   1    0     00:37:58
+regular     11   3    0     00:37:59
+random      49   3    0     00:38:00
+regular     98   1    0     00:38:00
+regular     37   3    0     00:38:01
+regular     2    0    0     00:38:02
+random      99   1    0     00:38:03
+regular     24   0    0     00:38:03
+random      90   2    90    00:38:04
+regular     30   3    0     00:38:04
+regular     29   0    0     00:38:05
+regular     43   0    0     00:38:06
+regular     79   3    0     00:38:07
+regular     36   0    0     00:38:08
+regular     55   2    77    00:38:09
+regular     98   0    0     00:38:10
+regular     50   3    0     00:38:11
+regular     36   2    45    00:38:12
+regular     73   1    0     00:38:13
+regular     19   3    0     00:38:14
+regular     29   1    0     00:38:15
+regular     50   0    0     00:42:06
+random      50   0    0     00:42:06
+regular     13   1    0     00:42:07
+regular     6    0    0     00:42:08
+random      86   1    0     00:42:08
+regular     82   1    0     00:42:09
+random      82   1    0     00:42:09
+regular     90   0    0     00:42:10
+random      61   1    0     00:42:10
+regular     14   3    0     00:42:11
+random      22   1    0     00:42:11
+regular     22   1    0     00:42:12
+random      98   3    0     00:42:12
+regular     61   1    0     00:42:13
+regular     72   3    0     00:42:14
+random      43   0    0     00:42:14
+regular     43   0    0     00:42:15
+random      70   2    65    00:42:15
+regular     92   1    0     00:42:16
+regular     75   1    0     00:42:17
+random      61   2    55    00:42:17
+regular     6    0    0     00:42:18
+random      1    1    0     00:42:18
+regular     35   3    0     00:42:19
+regular     71   0    0     00:42:20
+regular     14   3    0     00:42:21
+random      98   1    0     00:42:21
+regular     98   1    0     00:42:22
+regular     87   3    0     00:42:23
+random      36   2    11    00:42:23
+regular     39   3    0     00:42:24
+regular     9    0    0     00:42:25
+regular     30   1    0     00:42:26
+random      53   1    0     00:42:26
+regular     83   0    0     00:42:27
+random      83   0    0     00:42:27
+regular     19   2    41    00:42:28
+regular     66   0    0     00:42:29
+random      43   1    0     00:42:29
+regular     52   3    0     00:42:30
+regular     50   3    0     00:42:31
+regular     48   2    96    00:42:32
+random      81   3    0     00:42:32
+regular     95   1    0     00:42:33
+regular     31   3    0     00:42:34
+random      50   3    0     00:42:34
+regular     18   0    0     00:42:35
+regular     98   3    0     00:42:36
+random      79   0    0     00:42:36
+regular     48   2    29    00:42:37
+regular     36   3    0     00:42:38
+random      62   2    87    00:42:38
+regular     72   3    0     00:42:39
+regular     92   2    29    00:42:40
+regular     7    0    0     00:42:41
+random      77   1    0     00:42:41
+regular     64   3    0     00:42:42
+regular     84   3    0     00:42:43
+regular     71   0    0     00:42:44
+regular     73   0    0     00:42:45
+regular     72   1    0     00:42:46
+regular     15   3    0     00:42:47
+regular     93   3    0     00:42:48
+regular     74   0    0     00:42:49
+regular     10   3    0     00:42:50
+regular     43   3    0     00:42:51
+regular     15   0    0     00:42:52
+regular     66   0    0     00:42:53
+regular     80   2    8     00:42:54
+regular     37   0    0     00:42:55
+regular     25   3    0     00:45:51
+random      32   0    0     00:45:52
+regular     48   2    15    00:45:53
+random      53   2    94    00:45:53
+regular     70   3    0     00:45:54
+regular     68   0    0     00:45:55
+random      99   0    0     00:45:55
+regular     16   0    0     00:45:56
+regular     78   0    0     00:45:57
+random      65   2    77    00:45:57
+regular     35   3    0     00:45:58
+random      59   3    0     00:45:58
+regular     80   1    0     00:45:59
+random      55   0    0     00:45:59
+regular     26   0    0     00:46:00
+regular     88   0    0     00:46:01
+random      52   2    57    00:46:01
+regular     57   3    0     00:46:02
+random      42   1    0     00:46:02
+regular     68   0    0     00:46:03
+random      28   0    0     00:46:03
+regular     40   2    96    00:46:04
+random      54   0    0     00:46:04
+regular     100  1    0     00:46:05
+regular     4    1    0     00:46:06
+random      19   0    0     00:46:06
+regular     25   3    0     00:46:07
+regular     82   2    92    00:46:08
+random      72   0    0     00:46:08
+regular     47   2    23    00:46:09
+random      98   3    0     00:46:09
+regular     73   2    46    00:46:10
+regular     23   2    68    00:46:11
+regular     68   3    0     00:46:12
+random      93   3    0     00:46:12
+regular     64   2    36    00:46:13
+regular     46   0    0     00:46:14
+regular     34   3    0     00:46:15
+random      14   0    0     00:46:15
+regular     61   0    0     00:46:16
+regular     68   0    0     00:46:17
+random      11   3    0     00:46:17
+regular     5    2    15    00:46:18
+regular     24   3    0     00:46:19
+random      52   1    0     00:46:19
+regular     39   2    34    00:46:20
+regular     49   0    0     00:46:21
+regular     98   2    27    00:46:22
+random      40   2    48    00:46:22
+regular     32   3    0     00:46:23
+regular     39   3    0     00:46:24
+random      76   3    0     00:46:24
+regular     22   2    71    00:46:25
+random      35   0    0     00:46:25
+regular     46   0    0     00:46:26
+regular     11   1    0     00:46:27
+regular     73   0    0     00:46:28
+regular     59   0    0     00:46:29
+regular     100  0    0     00:46:30
+regular     30   2    8     00:46:31
+regular     22   0    0     00:46:32
+regular     92   3    0     00:46:33
+regular     91   2    95    00:46:34
+regular     14   1    0     00:46:35
+regular     45   3    0     00:46:36
+regular     57   0    0     00:46:37
+regular     80   0    0     00:46:38
+regular     5    3    0     00:46:39
+regular     5    1    0     00:46:40
+regular     29   2    72    00:46:41
+regular     72   2    59    00:51:12
+random      72   2    59    00:51:12
+regular     4    0    0     00:51:13
+regular     45   2    59    00:51:14
+regular     11   0    0     00:51:15
+random      9    0    0     00:51:15
+regular     84   0    0     00:51:16
+regular     16   3    0     00:51:17
+random      60   2    4     00:51:17
+regular     100  0    0     00:51:18
+random      41   3    0     00:51:18
+regular     12   1    0     00:51:19
+regular     60   1    0     00:51:20
+regular     14   2    54    00:51:21
+random      100  0    0     00:51:21
+regular     12   3    0     00:51:22
+regular     90   2    64    00:51:23
+random      94   3    0     00:51:23
+regular     38   1    0     00:51:24
+regular     17   0    0     00:51:25
+regular     29   1    0     00:51:26
+random      14   2    54    00:51:26
+regular     100  0    0     00:51:27
+random      52   1    0     00:51:27
+regular     11   2    15    00:51:28
+regular     66   2    53    00:51:29
+random      65   1    0     00:51:29
+regular     96   0    0     00:51:30
+random      17   0    0     00:51:30
+regular     97   0    0     00:51:31
+regular     15   2    1     00:51:32
+regular     88   3    0     00:51:33
+random      54   3    0     00:51:33
+regular     21   1    0     00:51:34
+regular     22   2    59    00:51:35
+random      11   2    15    00:51:35
+regular     97   3    0     00:51:36
+regular     99   2    11    00:51:37
+regular     88   1    0     00:51:38
+random      67   1    0     00:51:38
+regular     83   0    0     00:51:39
+random      5    0    0     00:51:39
+regular     83   0    0     00:51:40
+regular     54   0    0     00:51:41
+random      15   2    1     00:51:41
+regular     10   0    0     00:51:42
+regular     48   3    0     00:51:43
+random      96   0    0     00:51:43
+regular     75   1    0     00:51:44
+regular     27   2    6     00:51:45
+regular     29   2    16    00:51:46
+random      22   2    59    00:51:46
+regular     58   3    0     00:51:47
+regular     7    3    0     00:51:48
+regular     60   1    0     00:51:49
+random      48   2    74    00:51:49
+regular     33   0    0     00:51:50
+random      88   1    0     00:51:50
+regular     93   1    0     00:51:51
+regular     86   3    0     00:51:52
+random      61   2    56    00:51:52
+regular     40   0    0     00:51:53
+regular     18   3    0     00:51:54
+regular     75   0    0     00:51:55
+regular     40   3    0     00:51:56
+regular     32   2    65    00:51:57
+regular     39   0    0     00:51:58
+regular     67   0    0     00:51:59
+regular     26   0    0     00:52:00
+regular     89   3    0     00:52:01
+regular     82   0    0     00:58:22
+random      82   0    0     00:58:22
+regular     22   0    0     00:58:23
+regular     46   2    63    00:58:24
+random      85   1    0     00:58:24
+regular     76   0    0     00:58:25
+regular     81   0    0     00:58:26
+random      64   3    0     00:58:26
+regular     63   0    0     00:58:27
+regular     55   0    0     00:58:28
+regular     27   2    22    00:58:29
+random      81   0    0     00:58:29
+regular     5    1    0     00:58:30
+regular     91   3    0     00:58:31
+regular     34   1    0     00:58:32
+random      97   2    28    00:58:32
+regular     44   2    28    00:58:33
+regular     98   0    0     00:58:34
+regular     13   2    43    00:58:35
+random      39   2    4     00:58:35
+regular     78   3    0     00:58:36
+regular     1    3    0     00:58:37
+regular     97   2    63    00:58:38
+random      91   3    0     00:58:38
+regular     70   2    32    00:58:39
+random      22   3    0     00:58:39
+regular     16   0    0     00:58:40
+regular     87   1    0     00:58:41
+random      29   1    0     00:58:41
+regular     18   0    0     00:58:42
+regular     23   1    0     00:58:43
+random      13   2    43    00:58:43
+regular     16   3    0     00:58:44
+regular     28   0    0     00:58:45
+regular     50   3    0     00:58:46
+random      24   0    0     00:58:46
+regular     94   1    0     00:58:47
+regular     22   2    88    00:58:48
+random      97   2    63    00:58:48
+regular     69   1    0     00:58:49
+random      95   0    0     00:58:49
+regular     64   2    8     00:58:50
+random      57   2    25    00:58:50
+regular     9    0    0     00:58:51
+regular     81   3    0     00:58:52
+random      21   2    61    00:58:52
+regular     17   2    40    00:58:53
+regular     94   3    0     00:58:54
+regular     94   1    0     00:58:55
+random      76   3    0     00:58:55
+regular     100  2    51    00:58:56
+random      50   3    0     00:58:56
+regular     35   3    0     00:58:57
+random      86   1    0     00:58:57
+regular     25   0    0     00:58:58
+random      89   0    0     00:58:58
+regular     8    0    0     00:58:59
+regular     49   3    0     00:59:00
+regular     97   2    45    00:59:01
+random      64   2    8     00:59:01
+regular     72   0    0     00:59:02
+regular     13   2    89    00:59:03
+regular     37   1    0     00:59:04
+regular     40   1    0     00:59:05
+regular     81   3    0     00:59:06
+regular     45   2    46    00:59:07
+regular     75   1    0     00:59:08
+regular     77   3    0     00:59:09
+regular     31   1    0     00:59:10
+regular     96   2    54    00:59:11
