@@ -26,12 +26,11 @@ int main() {
 
         if (operationId == 2) {
             int hostelRoom = rand() % 100;
-            printf("Generated: random      %-5d%-5d%-5d %02d:%02d:%02d\n", studentId, operationId, hostelRoom,hour, minute, second);
             fprintf(queueFile, "random      %-5d%-5d%-5d %02d:%02d:%02d\n", studentId, operationId , hostelRoom , hour, minute, second);
             fflush(queueFile);
-        } 
+        }
         else {
-            printf("Generated: random      %-5d%-5d %02d:%02d:%02d\n", studentId, operationId, hour, minute, second);
+            
             fprintf(queueFile, "random      %-5d%-5d%-5d %02d:%02d:%02d\n", studentId, operationId , 0, hour, minute, second);
             fflush(queueFile);
         }
@@ -42,7 +41,7 @@ int main() {
 
     clock_t end_time_random = clock();
     double time_taken_random = (double)(end_time_random - start_time_random) / CLOCKS_PER_SEC;
-    printf("Time taken by generateRandomRequests: %f seconds\n", time_taken_random);
+    printf("Throughput (Random Function) : %f seconds\n", time_taken_random/TOTAL_PAIRS_RANDOM);
 
     return 0;
 }

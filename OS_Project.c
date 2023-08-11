@@ -28,33 +28,6 @@ char last_names[20][20] = {"Gupta", "Buddhedev", "Sahu", "Sonawane", "Bruh", "Ag
 char hostels[5][5] = {"BH-1", "BH-2", "BH-3", "BH-4", "BH-5"};
 char courses[5][10] = {"BTech", "MTech", "MS", "PhD", "MBA"};
 
-// void First_names(char firstNames[][MAX_NAME_LENGTH], int count) {
-//     FILE *file = fopen("first_names.txt", "w+");
-//     if (file == NULL) {
-//         printf("Error opening file: first_names.txt\n");
-      
-//     }
-
-//     for (int i = 0; i < count; i++) {
-//         fscanf(file, "%s", firstNames[i]);
-//     }
-
-//     fclose(file);
-// }
-
-// void Last_names(char lastNames[][MAX_NAME_LENGTH], int count) {
-//     FILE *file = fopen("last_names.txt", "r");
-//     if (file == NULL) {
-//         printf("Error opening file: last_names.txt\n");
-        
-//     }
-
-//     for (int i = 0; i < count; i++) {
-//         fscanf(file, "%s", lastNames[i]);
-//     }
-
-//     fclose(file);
-// }
 
 struct Student* generate_random_student() {
     struct Student* member = (struct Student*)malloc(sizeof(struct Student));
@@ -77,11 +50,6 @@ struct Student* generate_random_student() {
         }
     } while (new_id == 0);
 
-    // char first_names[20][MAX_NAME_LENGTH];
-    // char last_names[20][MAX_NAME_LENGTH];
-
-    // First_names(first_names,20);
-    // Last_names(last_names,20);
 
     member->id = new_id;
     strcpy(member->firstname, first_names[rand() % 20]);
@@ -235,7 +203,7 @@ void updateStudent(int targetID,int new_room_num) {
 
             struct Student* temp = head;
             while (temp != NULL) {
-                fprintf(file, "%d\t%s\t%s\t%s\t%s\t%d\t%s\t%d\n", temp->id, temp->firstname, temp->lastname,
+                fprintf(file, "%-12d%-12s%-12s%-12s%-12s%-12d%-12s%-12d\n", temp->id, temp->firstname, temp->lastname,
                         temp->hostel, temp->course, temp->room_num, temp->dob, temp->year_of_study);
                 temp = temp->next;
             }

@@ -1,5 +1,12 @@
 # Student Management System
 
+## Collaboraters
+
+- Shubham Gupta [Jarviss77](https://github.com/Jarviss77) - Generate random Student and Register them, Search Operation, Makefile, Shell Scripting.
+- Ashutosh Sahu [Ashutosh9993](https://github.com/Ashutosh9993) - File Handling ,Memory Management and Server.
+- Om Buddhadev [0mBudsMan](https://github.com/0mBudsMan)  - Regular and Random request generators.
+- Sahil Sonawane - Linked-List operations (Update, Remove).
+
 The Student Management System is an application that offers functionalities/services required in an academic setting involving student activities. This project is developed using C-language on a Linux-based environment and provides features for registering, searching, updating, and deleting student records for a specific academic club.
 
 ## Table of Contents

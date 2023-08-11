@@ -27,12 +27,10 @@ int main() {
 
         if (operationId == 2) {
             int hostelRoom = rand() % 100;
-            printf("Generated: regular     %-5d%-5d%-5d %02d:%02d:%02d\n", studentId, operationId, hostelRoom,hour, minute, second);
             fprintf(queueFile, "regular     %-5d%-5d%-5d %02d:%02d:%02d\n", studentId, operationId , hostelRoom , hour, minute, second);
             fflush(queueFile);
         } 
         else {
-            printf("Generated: regular     %-5d%-5d %02d:%02d:%02d\n", studentId, operationId,hour, minute, second);
             fprintf(queueFile, "regular     %-5d%-5d%-5d %02d:%02d:%02d\n", studentId, operationId , 0, hour, minute, second);
             fflush(queueFile);
         }
@@ -42,7 +40,7 @@ int main() {
 
     clock_t end_time_regular = clock();
     double time_taken_regular = (double)(end_time_regular - start_time_regular) / CLOCKS_PER_SEC;
-    printf("Time taken by generateRegularRequests: %f seconds\n", time_taken_regular);
+    printf("Throughput (Regular Function) : %f seconds\n", time_taken_regular/TOTAL_PAIRS_REGULAR);
 
 
     return 0;
