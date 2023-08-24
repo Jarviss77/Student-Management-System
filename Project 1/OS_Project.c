@@ -39,11 +39,11 @@ struct Student* generate_random_student() {
     int new_id;
     do {
         new_id = rand() % 100 + 1;
-        // Check if the generated id is already in use.
+        
         struct Student* temp = head;
         while (temp != NULL) {
             if (temp->id == new_id) {
-                new_id = 0; // Set to 0 to indicate the id is not unique.
+                new_id = 0; 
                 break;
             }
             temp = temp->next;
